@@ -67,4 +67,4 @@ mongoose.connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD
     });
 
 // 서버 리스닝
-app.listen(5000);
+app.listen(8000);
